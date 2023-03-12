@@ -43,8 +43,3 @@ FillArray(array);
 array[4] = 4;
 array[6] = 4;
 PrintArray(array);
- 
- int pos = IndexOf(array, 4);
- Console.WriteLine(pos); 
-
-

@@ -6,7 +6,7 @@
     return result;
 }
             // 0   1   2   3   4   5   6  7   8 
-int[] array = {11, 211, 31, 41, 15, 16, 17, 18, 19};
+int[] array = {11, 211, 31, 421, 15, 16, 17, 18, 19};
 
 int result = Max(
     Max(array[0], array[1], array[2]),
